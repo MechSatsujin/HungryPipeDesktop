@@ -1,0 +1,29 @@
+{
+  "name": "hungry_32pipe",
+  "main": "main.js",
+  "productName": "Hungry Pipe",
+  "description": "Hungry Pipe",
+  "author": "Kaisen",
+  "version": "1.0.0",
+  "dependencies": {
+    
+    "@electron/remote": "^2.0.8"
+  },
+  "scripts": {
+    "start": "electron main.js",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "18.2.2",
+    "electron-builder": "22.11.11"
+  },
+  "build": {
+    "appId": "io.kv.BiteMonster",
+    "extraFiles": [
+      "LICENSE.GDevelop.txt"
+    ],
+    "directories": {
+      "buildResources": "buildResources"
+    }
+  }
+}
