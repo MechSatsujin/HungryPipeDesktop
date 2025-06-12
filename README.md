@@ -4,7 +4,7 @@ NOTE:
 
  ----
  # Hungry Pipe Desktop
-An Open-Source game made using GDevelop and JavaScript for Desktop.
+An Open-Source game made using GDevelop, HTML and JavaScript for Desktop.
 
 [Hungry Pipe Mobile Repository](https://github.com/MechSatsujin/HungryPipeMobile)
 # Requirements
@@ -14,13 +14,16 @@ Operating System:
 - `Linux (On construction)`
 ## Hardware Requirements
 Memory: 
-- 4GB for Windows and macOS
-- and 2GB for Linux (Memory usage depends on the DE/WM using).
+4GB Of Memory
 
-CPU:<br>
-CPUs from 2010 can work enough(not yet tested.)
+CPU: 
+CPU from 2010 can work enough.
 
-This Section is in the making. 🚧
+Display: 1280x720 display
+
+GPU:
+Integrated Graphics up to Current-Gen GPUS.
+
 
 ----
 # Game Features
